@@ -2,9 +2,9 @@ using AutoMapper;
 using CommandAPI.Data;
 using CommandAPI.Dtos;
 using CommandAPI.Models;
+using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using Microsoft.AspNetCore.JsonPatch;
 
 namespace CommandAPI.Controllers
 {
